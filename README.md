@@ -2,7 +2,9 @@
 
 ## Description
 A Generative Adversarial Network (GAN) implementation for generating synthetic fashion images, trained on the Zalando Fashion-MNIST dataset.
-<img src="./images/generated_images.gif" width="500" height="500" />
+
+
+<img src="./images/generated_images.gif" width="300" height="300" />
 
 ## 🚀 Features
 - GAN architecture implemented in PyTorch
